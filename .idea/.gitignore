@@ -1,0 +1,23 @@
+# Default ignored files
+# Ignorar arquivos e diretórios específicos
+
+# Diretório shelf
+/shelf/
+
+# Arquivo workspace.xml
+/workspace.xml
+
+# Diretório dist
+/dist/
+
+# Arquivo build.xml
+build.xml
+
+# Arquivo manifest.mf
+manifest.mf
+
+# Diretório nbproject
+/nbproject/
+
+# Diretório .idea
+/.idea/
